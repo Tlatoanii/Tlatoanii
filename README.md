@@ -5,10 +5,11 @@ En ciencias de la computación, me gusta lo que hago por ello no me limito en lo
 
 ## :fireworks: Herramientas
 He practicado varios lenguajes personal y laboralmente, me gusta el desarrollo web, aunque también las <br>
-situaciones me han hecho ser desarrollador movil
+situaciones me han hecho ser desarrollador movil, algunas de las cosas en las que he estado involucrado son:
 - HTML, CSS, PHP, Javascript
 - DOTNET y MVC con DOTNET
 - Swift y SwiftUI con iOs 15
+- Android Studio con Kotlin
 - Bases de datos SQL con MariaDB y MySQL
 - C# y C# con Unity
 - Bases de datos no relacionales con MongoDB
